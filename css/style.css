@@ -46,6 +46,11 @@ header {
   font-size: 20px;
 }
 
+#menu li a:hover {
+  color: #000;
+  transition: 0.5s;
+}
+
 section {
   width: 100%;
   float: left;
