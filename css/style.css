@@ -84,8 +84,9 @@ section {
   background-color: #1a1a1a;
   padding: 15px;
   position: fixed;
-  right: 10px;
-  bottom: 10px;
+  right: 15px;
+  bottom: 15px;
+  border-radius: 15px;
 }
 
 h1 {
